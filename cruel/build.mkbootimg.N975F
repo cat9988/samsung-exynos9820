@@ -1,6 +1,6 @@
 header_version=1
 os_version=12.0.0
-os_patch_level=2021-12
+os_patch_level=2022-01
 board=SRPSC14B006KU
 pagesize=2048
 cmdline=androidboot.selinux=permissive androidboot.selinux=permissive loop.max_part=7
